@@ -2,9 +2,9 @@
 
 ## Install
 
-``` npm install
+  npm install
 
 Creare il file .env e copiarne il contenuto di .env_sample
 
-``` USERNAME=[username desiderato]
-``` SERVER=[indirizzo del server]:3000 
+  USERNAME=[username desiderato]
+  SERVER=[indirizzo del server]:3000
