@@ -1,0 +1,20 @@
+{
+  "name": "codeinthedark",
+  "version": "0.0.1",
+  "description": "Code in the Dark Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "grunt watch"
+  },
+  "author": "Oscar Chinellato",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-http-upload": "^0.3.2"
+  },
+  "dependencies": {
+    "node-env-file": "^0.1.8"
+  }
+}
